@@ -1,0 +1,20 @@
+|Название таблицы|Название первичного ключа|Тип ключа|
+|----------------|-------------------------|---------|
+|actor           |actor_id                 |Одиночный|
+|address         |address_id               |Одиночный|
+|category        |category_id              |Одиночный|
+|city            |city_id                  |Одиночный|
+|country         |country_id               |Одиночный|
+|customer        |customer_id              |Одиночный|
+|film            |film_id                  |Одиночный|
+|film_actor      |actor_id                 |Одиночный|
+|film_actor      |film_id                  |Одиночный|
+|film_category   |film_id                  |Одиночный|
+|film_category   |category_id              |Одиночный|
+|film_text       |film_id                  |Одиночный|
+|inventory       |inventory_id             |Одиночный|
+|language        |language_id              |Одиночный|
+|payment         |payment_id               |Одиночный|
+|rental          |rental_id                |Одиночный|
+|staff           |staff_id                 |Одиночный|
+|store           |store_id                 |Одиночный|
